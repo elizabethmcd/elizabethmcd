@@ -6,4 +6,5 @@ I pride myself on creating user-friendly, reproducible, and open source tools. I
 
 Feel free to open an issue in any of my repositories, or send me an email!
 
-[![Elizabeth McDaniel's Stats](https://github-readme-stats.vercel.app/api?username=elizabethmcd)](https://github.com/anuraghazra/github-readme-stats)
+[![Elizabeth McDaniel's Stats](https://github-readme-stats.vercel.app/api?username=elizabethmcd&hide_rank=true,&include_all_commits=TRUE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethmcd)](https://github.com/anuraghazra/github-readme-stats)
